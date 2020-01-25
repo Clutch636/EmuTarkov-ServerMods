@@ -17,7 +17,7 @@ A repository containing mods made for the EmuTarkov-Server
 4. Start the server & the game
 
 ##Note : 
-The name of the mod, is the second part of the folder name
-The Author name is the first part of the folder name
-eg : SenkoSan-EnableLanMod
-SenkoSan is the author, EnableLandMod is the name
+The name of the mod, is the second part of the folder name\s\s
+The Author name is the first part of the folder name\s\s
+eg : SenkoSan-EnableLanMod\s\s
+SenkoSan is the author, EnableLandMod is the name\s\s
