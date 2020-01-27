@@ -16,7 +16,7 @@ A repository containing mods made for the EmuTarkov-Server
 3. The server will automaticaly recache
 4. Start the server & the game
 
-##Note : 
+## Note : 
 The name of the mod, is the second part of the folder name<br>
 The Author name is the first part of the folder name<br>
 eg : SenkoSan-EnableLanMod<br>
